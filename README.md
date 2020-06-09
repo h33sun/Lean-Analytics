@@ -1,5 +1,7 @@
 # Lean-Analytics
 
+<img src = 'https://m.media-amazon.com/images/I/41Ib7M1JD9L.jpg'>
+
 - 앨리스테어 크롤, 벤자민 요스코비츠의 Lean Analytics를 읽고 정리한repo
 - 시작하기 앞서, What is Lean Startup?
 	- 제품이나 시장, 비즈니스를 발전시키 위해 기업가들이 사용하는 프로세스 중 하나.
